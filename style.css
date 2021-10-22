@@ -656,6 +656,17 @@ a {
   color: #575757 !important;
 }
 
+.text-center h2 {
+  font-size: 2.5em !important;
+}
+
+.voffset-text p {
+  line-height: 2em;
+}
+.voffset p {
+  font-size: 1em !important;
+}
+
 .container {
   max-width: 1000px;
 }
