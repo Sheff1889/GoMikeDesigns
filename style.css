@@ -660,6 +660,10 @@ a {
   font-size: 2.5em !important;
 }
 
+.text-center a {
+  color: white !important;
+}
+
 .voffset-text p {
   line-height: 2em;
 }
